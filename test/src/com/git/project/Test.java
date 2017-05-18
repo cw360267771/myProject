@@ -9,7 +9,7 @@ public class Test {
 	System.out.println("sss");
 	String abc ="";
 
-	String chenwei="wo shi cesi de 陈伟编辑 china";
+	String chenwei="wo shi cesi de 陈伟编辑 china 等等";
 
 
 	}
