@@ -8,6 +8,7 @@ public class Test {
 	public static void main(String[] args) {
 	System.out.println("sss");
 	String abc ="";
+	String chenwei="wo shi cesi de";
 
 	}
 
