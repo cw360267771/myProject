@@ -8,7 +8,7 @@ public class Test {
 	public static void main(String[] args) {
 	System.out.println("sss");
 	String abc ="";
-	String chenwei="wo shi cesi de 多少度";
+	String chenwei="wo shi cesi de 陈伟编辑";
 
 	}
 
